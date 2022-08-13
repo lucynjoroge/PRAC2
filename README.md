@@ -63,3 +63,4 @@ name = #Your code here; update the variable name
 
 ## Summary
 Great work! In this lab we practiced our skills with strings. We can now manipulate, coerce, and concatenate strings. Remember if there are any things you can't remember or want to discover about code that isn't mentioned in this material, googling is always a great practice!
+# PRAC2
